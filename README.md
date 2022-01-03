@@ -1,10 +1,9 @@
 <h3 align="center">:movie_camera: Cadastro de Séries em .NET :movie_camera:</h3>
 
-<hr />
+
 
 <details>
-    <summary><strong>Métodos</strong></summary>
-        <br />
+    <summary><strong>Métodos</strong></summary>       
         <ol>
             <li>Listar séries</li>
             <li>Inserir série</li>
@@ -14,11 +13,10 @@
         </ol>
 </details>
 
-<hr />
+
 
 <details>
-  <summary><strong>Fonte</strong></summary>
-    <br />
+  <summary><strong>Fonte</strong></summary>    
     <p align="left">
         Plataforma: <a href="https://web.digitalinnovation.one/home">Digital Innovation One</a>
         <br /> 
@@ -28,4 +26,4 @@
     </p>
 </details>
 
-<hr />
+
