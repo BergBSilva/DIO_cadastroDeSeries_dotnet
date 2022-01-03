@@ -1,0 +1,15 @@
+F:\bergu\Documents\DIO CSharp\Dio_Crud_Series\DIO.Series\obj\Debug\net6.0\DIO.Series.csproj.AssemblyReference.cache
+F:\bergu\Documents\DIO CSharp\Dio_Crud_Series\DIO.Series\obj\Debug\net6.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+F:\bergu\Documents\DIO CSharp\Dio_Crud_Series\DIO.Series\obj\Debug\net6.0\DIO.Series.AssemblyInfoInputs.cache
+F:\bergu\Documents\DIO CSharp\Dio_Crud_Series\DIO.Series\obj\Debug\net6.0\DIO.Series.AssemblyInfo.cs
+F:\bergu\Documents\DIO CSharp\Dio_Crud_Series\DIO.Series\obj\Debug\net6.0\DIO.Series.csproj.CoreCompileInputs.cache
+F:\bergu\Documents\DIO CSharp\Dio_Crud_Series\DIO.Series\bin\Debug\net6.0\DIO.Series.exe
+F:\bergu\Documents\DIO CSharp\Dio_Crud_Series\DIO.Series\bin\Debug\net6.0\DIO.Series.deps.json
+F:\bergu\Documents\DIO CSharp\Dio_Crud_Series\DIO.Series\bin\Debug\net6.0\DIO.Series.runtimeconfig.json
+F:\bergu\Documents\DIO CSharp\Dio_Crud_Series\DIO.Series\bin\Debug\net6.0\DIO.Series.dll
+F:\bergu\Documents\DIO CSharp\Dio_Crud_Series\DIO.Series\bin\Debug\net6.0\ref\DIO.Series.dll
+F:\bergu\Documents\DIO CSharp\Dio_Crud_Series\DIO.Series\bin\Debug\net6.0\DIO.Series.pdb
+F:\bergu\Documents\DIO CSharp\Dio_Crud_Series\DIO.Series\obj\Debug\net6.0\DIO.Series.dll
+F:\bergu\Documents\DIO CSharp\Dio_Crud_Series\DIO.Series\obj\Debug\net6.0\ref\DIO.Series.dll
+F:\bergu\Documents\DIO CSharp\Dio_Crud_Series\DIO.Series\obj\Debug\net6.0\DIO.Series.pdb
+F:\bergu\Documents\DIO CSharp\Dio_Crud_Series\DIO.Series\obj\Debug\net6.0\DIO.Series.genruntimeconfig.cache
